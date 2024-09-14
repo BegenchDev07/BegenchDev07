@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Linking Park and GameHub SaaS. <br>My tech stack is React/Tailwindcss/HTML/CSS
+I'm currently working on Linking Park and GameHub SaaS. <br>
 
 
 ## 🌐 Socials:
